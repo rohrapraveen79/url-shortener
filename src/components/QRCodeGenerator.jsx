@@ -1,5 +1,5 @@
 import { useRef } from "react";
-import QRCode from "qrcode.react";
+import { QRCodeCanvas } from "qrcode.react";
 import { Download, Copy, Check } from "lucide-react";
 import { useState } from "react";
 
